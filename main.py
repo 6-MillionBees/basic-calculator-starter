@@ -1,4 +1,4 @@
-# Arden Boettcher
+# Arden Boettcher & Eliot 
 # 10/8/24
 # Basic Calculator
 
